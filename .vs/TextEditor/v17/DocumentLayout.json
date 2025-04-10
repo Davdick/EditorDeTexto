@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|c:\\users\\compas\\documents\\pruebascodigo\\texteditor\\texteditor\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|c:\\users\\compas\\documents\\pruebascodigo\\texteditor\\texteditor\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|c:\\users\\compas\\documents\\pruebascodigo\\texteditor\\texteditor\\editfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\editfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|c:\\users\\compas\\documents\\pruebascodigo\\texteditor\\texteditor\\nanoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\nanoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|c:\\users\\compas\\documents\\pruebascodigo\\texteditor\\texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D863B0E-E92A-44B0-90EC-67DEB8FA6089}|TextEditor\\TextEditor.csproj|solutionrelative:texteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NanoEditor.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\NanoEditor.cs",
+              "RelativeDocumentMoniker": "TextEditor\\NanoEditor.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\NanoEditor.cs",
+              "RelativeToolTip": "TextEditor\\NanoEditor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:36:05.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditFile.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\EditFile.cs",
+              "RelativeDocumentMoniker": "TextEditor\\EditFile.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\EditFile.cs",
+              "RelativeToolTip": "TextEditor\\EditFile.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:06:05.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\Menu.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Menu.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\Menu.cs",
+              "RelativeToolTip": "TextEditor\\Menu.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:14:20.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "readFile.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\readFile.cs",
+              "RelativeDocumentMoniker": "TextEditor\\readFile.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\readFile.cs*",
+              "RelativeToolTip": "TextEditor\\readFile.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:08:08.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "TextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\COMPAS\\Documents\\PruebasCodigo\\TextEditor\\TextEditor\\Program.cs",
+              "RelativeToolTip": "TextEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:43:06.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
